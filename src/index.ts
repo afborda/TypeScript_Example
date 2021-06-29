@@ -1,1 +1,0 @@
-const nome = 'Abner fonseca';
